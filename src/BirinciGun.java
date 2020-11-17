@@ -8,5 +8,6 @@ public class BirinciGun {
 		System.out.println("yap");
 		System.out.println("10:35 ikinci");
 		System.out.println("github.com");
+		System.out.println("gelmedi");
 	}
 }

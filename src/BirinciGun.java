@@ -5,5 +5,6 @@ public class BirinciGun {
 		System.out.println("11:05 -  Birinci Gun");
 		System.out.println("Ikinci gun");
 		System.out.println("Ikinci Gun");
+		System.out.println("yap");
 	}
 }

@@ -14,7 +14,7 @@ public class BirinciGun {
 		System.out.println("Bakalim");
 		System.out.println("11:23 - github.com");
 		System.out.println("github.com");
-		System.out.println("yepyeni bir satir");
+		System.out.println("yepyeniyeniyeni bir satir");
 
 	}
 }

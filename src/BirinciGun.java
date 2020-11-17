@@ -12,6 +12,8 @@ public class BirinciGun {
 		System.out.println("gelmedi");
 		System.out.println("jhgjhgjhgj");
 		System.out.println("ben buradan conflict beklemiyorum");
+		System.out.println("ben buradan conflict beklemiyorum");
+		System.out.println("ben buradan conflict beklemiyorum");
 
 	}
 }
